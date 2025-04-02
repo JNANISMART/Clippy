@@ -34,9 +34,6 @@ Clippy is a lightweight, elegant clipboard manager for macOS that helps you mana
 ### Category Filtering
 <img src="screenshots/3.png" width="300" alt="Category Filtering">
 
-### Text-Only Options Menu
-<img src="screenshots/6.png" width="300" alt="Text-Only Options Menu">
-
 ### Empty State
 <img src="screenshots/4.png" width="300" alt="Empty State">
 
@@ -55,7 +52,7 @@ Clippy is a lightweight, elegant clipboard manager for macOS that helps you mana
 
 ## Building from Source
 
-1. Clone the repository: `git clone https://github.com/[YOUR_USERNAME]/Clippy.git`
+1. Clone the repository: `git clone https://github.com/JNANISMART/Clippy.git`
 2. Open `Clippy.xcodeproj` in Xcode
 3. Build and run the project (⌘+R)
 
